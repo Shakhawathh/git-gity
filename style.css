@@ -1,0 +1,84 @@
+body{
+    font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    border-left: orange solid;
+    margin: 0;
+}
+h2{
+font-size: 200%;
+}
+
+h5{
+    padding-top: 20px;
+}
+
+p{
+    font-size: small;
+    padding-top: 5%;
+}
+.new-site{
+    color: rgb(145, 21, 21);
+    font-weight: bold;
+}
+.mid-line{
+    width:40%;
+    padding: 5%;
+    padding-right: 5%;
+
+}
+.mid-line img{
+    width:70%;
+   padding-right: 10%;
+
+}
+.first-container{
+    display: flex;
+    margin:50px;
+}
+.inter-level{
+    text-decoration: none;
+    background-image: linear-gradient(orange,RED);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 200px;
+}
+.three-line{
+    width: 60%;
+    margin-left: 5%;
+    padding-right: 10px;
+    padding-left: 20px;
+    background-color:grey;
+    border-radius: 10px;
+    font-weight: normal;
+}
+.three-line img{
+    width: 50%;
+}
+#book{
+    text-align:center;
+}
+.image-line img{
+margin: 0;
+margin-left: 5px;
+}
+.limits-less{
+    margin: 0;
+}
+footer{
+    text-align: center;
+}
+.last-page{
+    font-style: italic;
+    color: white;
+    text-align: center;
+    background-color: black;
+
+}
+#verb{
+    text-align: center;
+    font-style:normal;
+}
