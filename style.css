@@ -40,10 +40,10 @@ p{
 }
 .inter-level{
     text-decoration: none;
-    background-image: linear-gradient(orange,RED);
+    background-image: linear-gradient(orange,red);
     padding: 10px 30px;
     border-radius: 10px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 200px;
 }
 .three-line{
@@ -51,9 +51,16 @@ p{
     margin-left: 5%;
     padding-right: 10px;
     padding-left: 20px;
-    background-color: lightgoldenrodyellow;
     border-radius: 20px;
-    
+}
+#salmon{
+    background-color: salmon;
+}
+#yellow{
+    background-color: rgb(185, 219, 117);
+}
+#red{
+    background-color: rgb(146, 109, 146);
 }
 
 .three-line img{
